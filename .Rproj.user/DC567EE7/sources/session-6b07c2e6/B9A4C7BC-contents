@@ -1,0 +1,9 @@
+---
+title: "SDS 270 Class 3 work"
+format: html
+editor: visual
+---
+```{r}
+usethis::create_from_github("sds270lawson/testpackage", fork = TRUE)
+```
+
